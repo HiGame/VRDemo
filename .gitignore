@@ -1,0 +1,16 @@
+/Temp
+/ProjectSettings
+/Library
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/Pro_DreamHunter.sln
+/Pro_DreamHunter.v12.suo
+/obj
+/Assembly-CSharp-firstpass.csproj
+/Pro_DreamHunter.v11.suo
+/Pro_DreamHunter.CSharp.Plugins.csproj
+/Pro_DreamHunter.CSharp.Editor.csproj
+/*.csproj
+/*.sln
+/*.suo
+/.vs
